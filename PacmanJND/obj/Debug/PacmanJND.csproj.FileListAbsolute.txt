@@ -1,0 +1,33 @@
+D:\Do not erase!\Documents\Visual Studio 2017\ICS3U\CPTJav\PacmanJND\PacmanJND\bin\Debug\PacmanJND.exe.config
+D:\Do not erase!\Documents\Visual Studio 2017\ICS3U\CPTJav\PacmanJND\PacmanJND\bin\Debug\PacmanJND.exe
+D:\Do not erase!\Documents\Visual Studio 2017\ICS3U\CPTJav\PacmanJND\PacmanJND\bin\Debug\PacmanJND.pdb
+D:\Do not erase!\Documents\Visual Studio 2017\ICS3U\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.csprojAssemblyReference.cache
+D:\Do not erase!\Documents\Visual Studio 2017\ICS3U\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.frmPacmanJND.resources
+D:\Do not erase!\Documents\Visual Studio 2017\ICS3U\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.Properties.Resources.resources
+D:\Do not erase!\Documents\Visual Studio 2017\ICS3U\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.csproj.GenerateResource.cache
+D:\Do not erase!\Documents\Visual Studio 2017\ICS3U\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.csproj.CoreCompileInputs.cache
+D:\Do not erase!\Documents\Visual Studio 2017\ICS3U\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.exe
+D:\Do not erase!\Documents\Visual Studio 2017\ICS3U\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.pdb
+D:\Do not erase!\Documents\Visual Studio 2017\ICS3U\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.PacmanLevel2.resources
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\PacmanJND\PacmanJND\bin\Debug\PacmanJND.exe.config
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\PacmanJND\PacmanJND\bin\Debug\PacmanJND.exe
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\PacmanJND\PacmanJND\bin\Debug\PacmanJND.pdb
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.csprojResolveAssemblyReference.cache
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.frmPacmanJND.resources
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.PacmanLevel2.resources
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.Properties.Resources.resources
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.csproj.GenerateResource.Cache
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.exe
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.pdb
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.PacmanLevel3.resources
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\CPTJav\PacmanJND\PacmanJND\bin\Debug\PacmanJND.exe.config
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\CPTJav\PacmanJND\PacmanJND\bin\Debug\PacmanJND.exe
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\CPTJav\PacmanJND\PacmanJND\bin\Debug\PacmanJND.pdb
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.csprojResolveAssemblyReference.cache
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.frmPacmanJND.resources
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.PacmanLevel2.resources
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.PacmanLevel3.resources
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.Properties.Resources.resources
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.csproj.GenerateResource.Cache
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.exe
+C:\Users\s455309\Documents\Visual Studio 2017\CPT\CPTJav\CPTJav\PacmanJND\PacmanJND\obj\Debug\PacmanJND.pdb
